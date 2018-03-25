@@ -1,6 +1,6 @@
 name: api-c
 title: API c
-version: 'v1.0'
+version: 'v1.1-SNAPSHOT'
 nav:
 - modules/ROOT/nav.adoc
 - modules/endpoints/nav.adoc
