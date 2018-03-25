@@ -1,0 +1,7 @@
+name: api-c
+title: API c
+version: 'latest'
+nav:
+- modules/ROOT/nav.adoc
+- modules/endpoints/nav.adoc
+- modules/ROOT/nav-end.adoc
